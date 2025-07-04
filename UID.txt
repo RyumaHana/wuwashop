@@ -1,0 +1,39 @@
+900349925
+class='text-sm text-white font-bold bg-yellow-400 px-5 py-1 rounded hover:bg-yellow-800'>Login with Google</a>";
+
+
+<section class="bg-white p-6 rounded-lg shadow">
+            <h2 class="text-xl font-semibold mb-4">2. Choose Product</h2>
+            <div class="grid grid-cols-2 gap-4">
+                <button onclick="selectProduct(1, '60 Lunites', 16000)" class="product-btn bg-gray-100 hover:bg-indigo-100 p-4 rounded shadow text-center">
+          <img src="assets/basic item/60lunites.png" alt="60 Lunites" class="mx-auto mb-19 w-80 h-80">
+          <div class="font-semibold">60 Lunites</div>
+          <div class="text-sm text-gray-500">Rp16.000</div>
+        </button>
+                <button onclick="selectProduct(2, '330 Lunites', 79000)" class="product-btn bg-gray-100 hover:bg-indigo-100 p-4 rounded shadow text-center">
+          <img src="assets/basic item/330lunites.png" alt="330 Lunites" class="mx-auto mb-19 w-80 h-80">
+          <div class="font-semibold">330 Lunites</div>
+          <div class="text-sm text-gray-500">Rp79.000</div>
+        </button>
+                <button onclick="selectProduct(3, '1090 Lunites', 249000)" class="product-btn bg-gray-100 hover:bg-indigo-100 p-4 rounded shadow text-center">
+          <img src="assets/basic item/1090lunites.png" alt="1090 Lunites" class="mx-auto mb-19 w-80 h-80">
+          <div class="font-semibold">1090 Lunites</div>
+          <div class="text-sm text-gray-500">Rp249.000</div>
+        </button>
+                <button onclick="selectProduct(4, '2240 Lunites', 479000)" class="product-btn bg-gray-100 hover:bg-indigo-100 p-4 rounded shadow text-center">
+          <img src="assets/basic item/2240lunites.png" alt="2240 Lunites" class="mx-auto mb-19 w-80 h-80">
+          <div class="font-semibold">2240 Lunites</div>
+          <div class="text-sm text-gray-500">Rp479.000</div>
+        </button>
+                <button onclick="selectProduct(4, '3880 Lunites', 799000)" class="product-btn bg-gray-100 hover:bg-indigo-100 p-4 rounded shadow text-center">
+          <img src="assets/basic item/3880lunites.png" alt="3880 Lunites" class="mx-auto mb-19 w-80 h-80">
+          <div class="font-semibold">3880 Lunites</div>
+          <div class="text-sm text-gray-500">Rp799.000</div>
+        </button>
+                <button onclick="selectProduct(4, '8080 Lunites', 1599000)" class="product-btn bg-gray-100 hover:bg-indigo-100 p-4 rounded shadow text-center">
+          <img src="assets/basic item/8080lunites.png" alt="8080 Lunites" class="mx-auto mb-19 w-80 h-80">
+          <div class="font-semibold">8080 Lunites</div>
+          <div class="text-sm text-gray-500">Rp1.599.000</div>
+        </button>
+            </div>
+        </section>

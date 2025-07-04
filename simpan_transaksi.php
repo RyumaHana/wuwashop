@@ -1,0 +1,1 @@
+<?php echo 'Akses tidak diizinkan.'; ?>
