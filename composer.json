@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "^2.18",
+        "midtrans/midtrans-php": "^2.6"
+    }
+}
